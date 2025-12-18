@@ -1,0 +1,67 @@
+[
+  {
+    "question": "What is a balanced diet?",
+    "options": [
+      "Eating only fruits",
+      "Consuming equal amounts of junk food and healthy food",
+      "A diet that contains all essential nutrients in correct proportions",
+      "Fasting every other day"
+    ],
+    "answer": "A diet that contains all essential nutrients in correct proportions"
+  },
+  {
+    "question": "Which of these is a good source of protein?",
+    "options": ["Bread", "Milk", "Rice", "Apple"],
+    "answer": "Milk"
+  },
+  {
+    "question": "What nutrient is most important for building muscles?",
+    "options": ["Vitamins", "Proteins", "Carbohydrates", "Fats"],
+    "answer": "Proteins"
+  },
+  {
+    "question": "Which food is rich in fiber?",
+    "options": ["White rice", "Soft drinks", "Whole grains", "Ice cream"],
+    "answer": "Whole grains"
+  },
+  {
+    "question": "Why is water important in a balanced diet?",
+    "options": [
+      "It adds color to the meal",
+      "It helps in digestion and keeps the body hydrated",
+      "It makes food spicy",
+      "It contains carbohydrates"
+    ],
+    "answer": "It helps in digestion and keeps the body hydrated"
+  },
+  {
+    "question": "What is the main function of carbohydrates?",
+    "options": ["Repair cells", "Provide energy", "Build muscles", "Fight infections"],
+    "answer": "Provide energy"
+  },
+  {
+    "question": "Which of these is a healthy fat source?",
+    "options": ["Butter", "French fries", "Avocado", "Cake"],
+    "answer": "Avocado"
+  },
+  {
+    "question": "How many servings of fruits and vegetables are recommended daily?",
+    "options": ["1-2", "2-3", "5 or more", "Only when hungry"],
+    "answer": "5 or more"
+  },
+  {
+    "question": "Why are vitamins and minerals important?",
+    "options": [
+      "They give food flavor",
+      "They help the body function properly",
+      "They are not needed in a diet",
+      "They are the same as carbohydrates"
+    ],
+    "answer": "They help the body function properly"
+  },
+  {
+    "question": "Which of the following helps in strong bones and teeth?",
+    "options": ["Vitamin C", "Iron", "Calcium", "Protein"],
+    "answer": "Calcium"
+  }
+]
