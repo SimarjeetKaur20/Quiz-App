@@ -1,7 +1,6 @@
 * {
   box-sizing: border-box;
 }
-
 body {
   font-family: 'Segoe UI', sans-serif;
   background: linear-gradient(135deg, #d4fc79, #96e6a1);
@@ -10,7 +9,6 @@ body {
   justify-content: center;
   align-items: center;
 }
-
 .quiz-container {
   background: white;
   width: 420px;
